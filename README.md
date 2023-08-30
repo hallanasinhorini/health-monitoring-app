@@ -1,7 +1,7 @@
 # health-monitoring-app
 
-##Technology Stack: Go, Google Cloud Platform (GCP), APIs: gRPC for inter-microservice communication, REST for user interaction
-Microservices-based application that collects user health data, analyzes it and provides personalized health recommendations
+## Technology Stack: Go, Google Cloud Platform (GCP), APIs: gRPC for inter-microservice communication, REST for user interaction
+## Microservices-based application that collects user health data, analyzes it and provides personalized health recommendations
 
 Features and Functionalities:
 1. User Authentication:
